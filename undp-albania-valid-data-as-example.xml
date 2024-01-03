@@ -1,0 +1,415 @@
+<iati-activities xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2023-12-21T20:49:10"
+    version="2.03">
+    <!-- Albania -->
+    <iati-activity last-updated-datetime="2023-12-21T08:17:47" default-currency="USD" xml:lang="en"
+        humanitarian="0" hierarchy="1">
+        <iati-identifier>XM-DAC-41114-PROJECT-00034068</iati-identifier>
+        <reporting-org ref="XM-DAC-41114" type="40">
+            <narrative>United Nations Development Programme</narrative>
+        </reporting-org>
+        <title>
+            <narrative>Development Advisory Support</narrative>
+        </title>
+        <description type="1">
+            <narrative>Development Advisory Services for direct support to upstream initiatives in
+                UNDPs focus areas.</narrative>
+        </description>
+        <participating-org role="4" type="40" ref="99999">
+            <narrative>United Nations Development Programme</narrative>
+        </participating-org>
+        <participating-org role="2" type="40" ref="XM-DAC-41114">
+            <narrative>UNITED NATIONS DEVELOPMENT PROGRAMME</narrative>
+        </participating-org>
+        <participating-org role="1" type="40" ref="00250">
+            <narrative>UNDETERMINED</narrative>
+        </participating-org>
+        <participating-org role="1" type="40" ref="XM-DAC-41114">
+            <narrative>UNITED NATIONS DEVELOPMENT PROGRAMME</narrative>
+        </participating-org>
+        <activity-status code="2" />
+        <activity-date type="1" iso-date="2004-01-01" />
+        <activity-date type="2" iso-date="2004-01-01" />
+        <activity-date type="3" iso-date="2023-12-31" />
+        <contact-info type="1">
+            <email>registry.al@undp.org</email>
+            <website>https://www.al.undp.org/</website>
+        </contact-info>
+        <recipient-country code="AL">
+            <narrative>Albania</narrative>
+        </recipient-country>
+        <sector vocabulary="1" code="99810" percentage="100.00" />
+        <collaboration-type code="4" />
+        <default-flow-type code="10" />
+        <default-finance-type code="110" />
+        <default-aid-type code="C01" />
+        <default-tied-status code="5" />
+        <document-link format="application/pdf"
+            url="https://undpngddlsprod01.blob.core.windows.net/pdc/ALB10_2021_00034068.PDF">
+            <title>
+                <narrative>Annual Workplan 2021/22</narrative>
+            </title>
+            <category code="A05" />
+            <language code="en" />
+        </document-link>
+        <document-link format="application/pdf"
+            url="https://undpngddlsprod01.blob.core.windows.net/pdc/34068.PDF">
+            <title>
+                <narrative>Budget 2017/18</narrative>
+            </title>
+            <category code="A05" />
+            <language code="en" />
+        </document-link>
+        <document-link format="text/html" url="http://open.undp.org/projects/00034068/po">
+            <title>
+                <narrative>Purchase Order Summary</narrative>
+            </title>
+            <category code="A06" />
+            <language code="en" />
+        </document-link>
+        <document-link format="text/html" url="http://open.undp.org/projects/00034068/results">
+            <title>
+                <narrative>Project Results</narrative>
+            </title>
+            <category code="A08" />
+            <language code="en" />
+        </document-link>
+        <document-link format="application/pdf"
+            url="https://undpngddlsprod01.blob.core.windows.net/pdc/00034068_DAS.pdf">
+            <title>
+                <narrative>00034068_DAS</narrative>
+            </title>
+            <category code="A02" />
+            <category code="A03" />
+            <language code="en" />
+        </document-link>
+        <document-link format="text/html" url="http://open.undp.org/projects/00034068">
+            <title>
+                <narrative>Activity Web Page</narrative>
+            </title>
+            <category code="A12" />
+            <language code="en" />
+        </document-link>
+        <related-activity type="2" ref="XM-DAC-41114-OUTPUT-00035955" />
+        <conditions attached="1">
+            <condition type="1">
+                <narrative>UNDP as the Implementing Partner will comply with the policies,
+                    procedures and practices of the United Nations Security Management System
+                    (UNSMS.)</narrative>
+            </condition>
+            <condition type="1">
+                <narrative>Social and environmental sustainability will be enhanced through
+                    application of the UNDP Social and Environmental Standards
+                    (http://www.undp.org/ses) and related Accountability Mechanism
+                    (http://www.undp.org/secu-srm).</narrative>
+            </condition>
+        </conditions>
+    </iati-activity>
+    <iati-activity last-updated-datetime="2023-12-21T08:13:15" default-currency="USD" xml:lang="en"
+        humanitarian="0" hierarchy="2">
+        <iati-identifier>XM-DAC-41114-OUTPUT-00035955</iati-identifier>
+        <reporting-org ref="XM-DAC-41114" type="40">
+            <narrative>United Nations Development Programme</narrative>
+        </reporting-org>
+        <title>
+            <narrative>Development Advisory Support</narrative>
+        </title>
+        <description type="1">
+            <narrative>Development Advisory Services are established to provide Resident
+                Representative with a rapid response capacity for direct support to upstream
+                initiatives in UNDPs main focus areas.</narrative>
+        </description>
+        <participating-org role="4" type="40" ref="99999">
+            <narrative>United Nations Development Programme</narrative>
+        </participating-org>
+        <participating-org role="1" type="40" ref="XM-DAC-41114">
+            <narrative>UNITED NATIONS DEVELOPMENT PROGRAMME</narrative>
+        </participating-org>
+        <participating-org role="1" type="40" ref="00250">
+            <narrative>UNDETERMINED</narrative>
+        </participating-org>
+        <activity-status code="2" />
+        <activity-date type="1" iso-date="2004-01-01" />
+        <activity-date type="2" iso-date="2004-01-01" />
+        <activity-date type="3" iso-date="2023-12-31" />
+        <contact-info type="1">
+            <email>registry.al@undp.org</email>
+            <website>https://www.al.undp.org/</website>
+        </contact-info>
+        <activity-scope code="4" />
+        <recipient-country code="AL">
+            <narrative>Albania</narrative>
+        </recipient-country>
+        <location ref="AL">
+            <location-reach code="1" />
+            <location-id vocabulary="G1" code="3183875" />
+            <name>
+                <narrative>Tirana</narrative>
+            </name>
+            <description>
+                <narrative>capital of a political entity</narrative>
+            </description>
+            <activity-description>
+                <narrative>Project implementation office</narrative>
+            </activity-description>
+            <administrative level="1" code="3183875" vocabulary="G1" />
+            <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+                <pos>41.327500 19.818890</pos>
+            </point>
+            <exactness code="1" />
+            <location-class code="2" />
+            <feature-designation code="PPLC" />
+        </location>
+        <sector vocabulary="1" code="99810" percentage="100.00" />
+        <policy-marker vocabulary="1" code="1" significance="0" />
+        <collaboration-type code="4" />
+        <default-flow-type code="10" />
+        <default-finance-type code="110" />
+        <default-aid-type code="C01" />
+        <default-tied-status code="5" />
+        <budget type="2" status="2">
+            <period-start iso-date="2023-01-01" />
+            <period-end iso-date="2023-12-31" />
+            <value currency="USD" value-date="2023-11-30">186954</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2022-01-01" />
+            <period-end iso-date="2022-12-31" />
+            <value currency="USD" value-date="2022-12-31">209334</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2021-01-01" />
+            <period-end iso-date="2021-12-31" />
+            <value currency="USD" value-date="2021-12-31">51052</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2020-01-01" />
+            <period-end iso-date="2020-12-31" />
+            <value currency="USD" value-date="2020-12-31">52844</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2018-01-01" />
+            <period-end iso-date="2018-12-31" />
+            <value currency="USD" value-date="2018-12-31">26200</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2017-01-01" />
+            <period-end iso-date="2017-12-31" />
+            <value currency="USD" value-date="2017-12-31">125650</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2016-01-01" />
+            <period-end iso-date="2016-12-31" />
+            <value currency="USD" value-date="2016-12-31">47000</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2015-01-01" />
+            <period-end iso-date="2015-12-31" />
+            <value currency="USD" value-date="2015-12-31">82025</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2014-01-01" />
+            <period-end iso-date="2014-12-31" />
+            <value currency="USD" value-date="2014-12-31">85000</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2013-01-01" />
+            <period-end iso-date="2013-12-31" />
+            <value currency="USD" value-date="2013-12-31">38528</value>
+        </budget>
+        <budget type="2" status="2">
+            <period-start iso-date="2012-01-01" />
+            <period-end iso-date="2012-12-31" />
+            <value currency="USD" value-date="2012-12-31">169164</value>
+        </budget>
+        <capital-spend percentage="0" />
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2023-11-30" />
+            <value currency="USD" value-date="2023-11-30">87364</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2022-12-31" />
+            <value currency="USD" value-date="2022-12-31">165728</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2021-12-31" />
+            <value currency="USD" value-date="2021-12-31">53289</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2020-12-31" />
+            <value currency="USD" value-date="2020-12-31">16494</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2018-12-31" />
+            <value currency="USD" value-date="2018-12-31">1294</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2017-12-31" />
+            <value currency="USD" value-date="2017-12-31">66753</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2016-12-31" />
+            <value currency="USD" value-date="2016-12-31">42234</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2015-12-31" />
+            <value currency="USD" value-date="2015-12-31">1335</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2014-12-31" />
+            <value currency="USD" value-date="2014-12-31">14893</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2013-12-31" />
+            <value currency="USD" value-date="2013-12-31">17354</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="4" />
+            <transaction-date iso-date="2012-12-31" />
+            <value currency="USD" value-date="2012-12-31">56812</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <transaction>
+            <transaction-type code="2" />
+            <transaction-date iso-date="2023-11-30" />
+            <value currency="USD" value-date="2023-11-30">623140</value>
+            <provider-org type="40" ref="XM-DAC-41114">
+                <narrative>United Nations Development Programme</narrative>
+            </provider-org>
+            <disbursement-channel code="2" />
+        </transaction>
+        <document-link format="text/html" url="http://open.undp.org/projects/00034068">
+            <title>
+                <narrative>Activity web page</narrative>
+            </title>
+            <category code="A12" />
+        </document-link>
+        <related-activity type="1" ref="XM-DAC-41114-PROJECT-00034068" />
+        <conditions attached="1">
+            <condition type="1">
+                <narrative>UNDP as the Implementing Partner will comply with the policies,
+                    procedures and practices of the United Nations Security Management System
+                    (UNSMS.)</narrative>
+            </condition>
+            <condition type="1">
+                <narrative>Social and environmental sustainability will be enhanced through
+                    application of the UNDP Social and Environmental Standards
+                    (http://www.undp.org/ses) and related Accountability Mechanism
+                    (http://www.undp.org/secu-srm).</narrative>
+            </condition>
+        </conditions>
+        <result type="1" aggregation-status="1">
+            <title>
+                <narrative>Annual Output Results</narrative>
+            </title>
+            <indicator ascending="0" measure="5">
+                <title>
+                    <narrative>Output Indicator</narrative>
+                </title>
+                <description>
+                    <narrative>Development Advisory Services established</narrative>
+                </description>
+                <baseline year="2004">
+                    <comment>
+                        <narrative>N/A</narrative>
+                    </comment>
+                </baseline>
+                <period>
+                    <period-start iso-date="2020-01-01" />
+                    <period-end iso-date="2020-12-31" />
+                    <target>
+                        <comment>
+                            <narrative>Development Advisory Services are established</narrative>
+                        </comment>
+                    </target>
+                    <actual>
+                        <comment>
+                            <narrative>Development Advisory Services are established</narrative>
+                        </comment>
+                    </actual>
+                </period>
+                <period>
+                    <period-start iso-date="2021-01-01" />
+                    <period-end iso-date="2021-12-31" />
+                    <target>
+                        <comment>
+                            <narrative>Development Advisory Services are established</narrative>
+                        </comment>
+                    </target>
+                    <actual>
+                        <comment>
+                            <narrative>Development Advisory Services are established</narrative>
+                        </comment>
+                    </actual>
+                </period>
+                <period>
+                    <period-start iso-date="2022-01-01" />
+                    <period-end iso-date="2022-12-31" />
+                    <target>
+                        <comment>
+                            <narrative>Development Advisory Services are established</narrative>
+                        </comment>
+                    </target>
+                    <actual>
+                        <comment>
+                            <narrative>Development Advisory Services are established</narrative>
+                        </comment>
+                    </actual>
+                </period>
+            </indicator>
+        </result>
+    </iati-activity>
+</iati-activities>
